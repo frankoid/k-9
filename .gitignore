@@ -16,3 +16,5 @@ local.properties
 monkey.txt
 *~
 *.iws
+target
+/out
